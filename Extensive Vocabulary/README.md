@@ -1,0 +1,1 @@
+A program that compares to novels and determines which has a more extensive vocabulary. First a dictionary will be populated using words.txt. Then the difference of distinct words, total words, ratio of distinct words to total words and difference of the two novels will be displayed.
