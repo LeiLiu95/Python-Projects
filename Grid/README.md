@@ -1,0 +1,1 @@
+Reads an input "grid.txt" with the first like indicating n dimension of the grid followed by a square grid with numbers in each place. The program will calculate the greatest product of four adjacent numbers within the grid.
