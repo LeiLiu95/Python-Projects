@@ -1,0 +1,1 @@
+In this program you will prompt the user to enter the day, month, and year. The program will then return the day of the week for that date.

@@ -1,0 +1,1 @@
+Given an input of pairs of DNA sequences from dna.txt, with the first line as the number of pairs of DNA sequences, the program will return the longest common sequences in the DNA pairs.

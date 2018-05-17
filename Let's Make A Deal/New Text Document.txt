@@ -1,0 +1,1 @@
+A program that simulates the Monty Hall game with 3 doors to show it is better to switch doors after one is revealed.
