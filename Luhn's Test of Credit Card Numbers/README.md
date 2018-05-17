@@ -1,0 +1,1 @@
+A program that implements Luhn's credit card test. A 15 to 16 digit number will be inputted and the program will declare if the credit card is a valid number or not. 
