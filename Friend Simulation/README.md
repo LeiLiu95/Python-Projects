@@ -1,0 +1,1 @@
+A program that keeps track of users and the status of their friendships with other users. User can create and delete account and add and remove friends.
