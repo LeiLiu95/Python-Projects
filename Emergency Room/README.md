@@ -1,0 +1,1 @@
+A program that simulates an emergency room that takes patients from an input, "ERsim.txt", and insert them into a queue. The input will declare the patient name and their status (Critical, Serious and Fair). Commands will be given to treat patients on a FIFO basis.
