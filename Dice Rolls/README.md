@@ -1,0 +1,1 @@
+A program that displays the result of two die being rolled a number of times the user declares. The results will then be displayed and should represent a Gaussian Distribution given enough trials.
