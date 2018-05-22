@@ -1,0 +1,1 @@
+A program that checks if an HTML file has all tags set correctly and returns a list of used tags. Copy HTML code into "htmlfile.txt" and run the program to check.
