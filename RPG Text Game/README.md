@@ -1,0 +1,1 @@
+Simple text game to get an understanding of using objects in Python.
