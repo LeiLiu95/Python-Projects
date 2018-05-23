@@ -1,0 +1,1 @@
+A program that solves a number path recursively. The program checks if a path can be reached at the end of the maze with a sum of each position equal to the target given sum.
