@@ -1,0 +1,1 @@
+Program that times different sorting methods and compares their statistics with different amounts of input values to see which is the fastest sorting method.
